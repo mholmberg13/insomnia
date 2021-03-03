@@ -1,6 +1,6 @@
 # Insomnia Cookies
 
-- Code is included in sepereate files for easy copy/pasting.
+- Code is included in seperate files for easy copy/pasting.
 
 # For Current Font
 Add this code to the head of the HTML
