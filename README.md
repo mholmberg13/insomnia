@@ -9,6 +9,9 @@ Add this code to the head of the HTML
 # Adding New and Limited Time Heading
 Add the `<h4>` element to the corresponding `<div>` as shown below. Each code snippet, or `<div>` in this case, includes the surrounding `<div>` for the desired heading location.
 ![Code](https://github.com/mholmberg13/insomnia/blob/master/images/Screen%20Shot%202021-03-02%20at%207.41.00%20PM.png?raw=true)
+
+# Add CSS
+Add this code to current CSS.
     
     
 # Remove Current 'NEW' Stickers
