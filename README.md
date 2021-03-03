@@ -12,6 +12,7 @@ Add the `<h4>` element to the corresponding `<div>` as shown below. Each code sn
 
 # Add CSS
 Add this code to current CSS.
+
 ![CSS](https://github.com/mholmberg13/insomnia/blob/master/images/Screen%20Shot%202021-03-02%20at%207.51.15%20PM.png?raw=true)
     
     
